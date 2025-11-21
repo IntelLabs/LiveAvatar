@@ -1,0 +1,8 @@
+tensorboard==2.16.2
+accelerate==1.7.0
+albumentations==2.0.8
+pandas==2.3.0
+pytorch_msssim==1.0.0
+
+# for 3d visualizations
+#open3d==0.19.0
